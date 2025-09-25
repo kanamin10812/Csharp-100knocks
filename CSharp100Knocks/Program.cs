@@ -25,8 +25,28 @@ namespace CSharp100Knocks
             // knock04.outputQuot();
 
             //問5
-            knock05 knock05 = new();
-            knock05.outputBool();
+            // knock05 knock05 = new();
+            // knock05.outputBool();
+
+            //問6
+            // knock06 knock06 = new();
+            // knock06.outputIf();
+
+            //問7
+            // knock07 knock07 = new();
+            // knock07.outputEvenOdd();
+
+            //問8
+            // knock08 knock08 = new();
+            // knock08.outputSwitch();
+
+            // //問9
+            // knock09 knock09 = new();
+            // knock09.outputFor();
+
+            //問10
+            knock10 knock10 = new();
+            knock10.outputWhile();
         }
     }
 }

@@ -44,9 +44,49 @@ namespace CSharp100Knocks
             // knock09 knock09 = new();
             // knock09.outputFor();
 
-            //問10
-            knock10 knock10 = new();
-            knock10.outputWhile();
+            // //問10
+            // knock10 knock10 = new();
+            // knock10.outputWhile();
+
+            // //問11
+            // knock11 knock11 = new();
+            // knock11.outputDoWhile();
+
+            //問12
+            // knock12 knock12 = new();
+            // knock12.outputTernary();
+
+            // //問13
+            // knock13 knock13 = new();
+            // knock13.outputAnd();
+
+            // // 問14
+            // knock14 knock14 = new();
+            // knock14.outputOR();
+
+            // //問15
+            // knock15 knock15 = new();
+            // knock15.outputNot();
+
+            // //問16
+            // knock16 knock16 = new();
+            // knock16.outputConst();
+
+            // //問17
+            // knock17 knock17 = new();
+            // knock17.outputConcat();
+
+            // //問18
+            // knock18 knock18 = new();
+            // knock18.outputComplement();
+
+            // //問19
+            // knock19 knock19 = new();
+            // knock19.outputNullCoalescing();
+
+            //問20
+            knock20 knock20 = new();
+            knock20.outputIs();            
         }
     }
 }
